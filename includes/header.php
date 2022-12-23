@@ -29,6 +29,14 @@
         <li class="nav-item">
           <a class="nav-link" href="viewrecords.php">View Attendees</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="loginpage.php">Login Page</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contactus.php">Contact Us</a>
+        </li>
+
+
        
       </ul>
     </div>

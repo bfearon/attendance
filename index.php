@@ -56,11 +56,11 @@ $title = 'Index';
 
   <button type= "submit" name="submit"  class="btn btn-primary">Submit</button>
 </form>
-<br>
-<br>
-<br>
-<br>
-<br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
   
    
-<?php require_once 'includes/footer.php'; ?>
+   <?php require_once 'includes/footer.php'; ?>
